@@ -1,0 +1,17 @@
+# llms.txt
+# Site information for large language models
+
+Site: https://www.ricepuritytestlabs.com
+Name: Rice Purity Test Labs
+Description: Educational and entertainment website explaining the Rice Purity Test, including history, score meaning, and interactive tools.
+
+Crawl-Allowed: /
+Crawl-Delay: 5
+
+Preferred-Language: en
+Content-Type: informational, educational
+
+Attribution-Required: false
+Commercial-Use: allowed
+
+Contact: https://www.ricepuritytestlabs.com/contact/
